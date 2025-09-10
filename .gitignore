@@ -1,0 +1,29 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Composer dependencies
+/vendor/
+
+# Node dependencies
+/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Cache / Session
+/cache/
+*.cache
+*.session
+*.swp
+
+# PHPStorm / VSCode / IDE settings
+.idea/
+.vscode/
+
+# Backup / temporary files
+*.bak
+*.tmp
+*.old
